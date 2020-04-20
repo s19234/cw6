@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Ćwiczenia6.DTOs.Request
 {
     /// <summary>
-    /// Klasa wykorzystywana do dodawania nowego studenta do bazy danych
+    /// Klasa przechowująca potrzebne dane do dodawania studenta
     /// </summary>
     public class EnrollStudentRequest
     {
